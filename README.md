@@ -20,8 +20,11 @@ These might not be the skills you’d usually think of for a developer, but they
 * [LinkedIn](www.linkedin.com/in/chloe-trang-le)
   
 __________________________
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrangLe265&theme=javascript)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=TrangLe265&theme=javascript" alt="GitHub Streak">
+  </a>
+</p>
 
 <!--
 **TrangLe265/TrangLe265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
