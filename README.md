@@ -1,4 +1,14 @@
-## Hi fellow coders, recruiters, curious people, or mom 👋
+# Hi fellow coders, recruiters, curious people, or mom 👋
+## Few words about me 💫
+😎 I am Trang, usully goes by Chloe, currently live in Helsinki. Growing up, I have always been a visual person, and somewhere along the way, I discovered my interest in coding. But as we all know, coding can be intimidating, time-consuming, and often monotonous—not to mention, not always the most visually appealing process. So, I thought, maybe I could bring something to the table—creating programs that are not only functional but also intuitive and visually appealing. That's the plan anyway!
+- 🔭  I’m currently studying at Haaga-Helia University of Applied Sciences
+- 🌱  I’m currently improving my skills in JavaScript, Java, Python with a sprinkle of SQL
+
+### In my freetime, I like to: 
+ - 🏋🏻‍♂️ Throw some heavy plates around
+ - 🚴🏼 Cycling around town for fun
+ - 🛍️ Thrifting 
+ - 🛋️ Move my furnitures around (aka typical Gemini)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrangLe265&theme=javascript)](https://git.io/streak-stats)
 
