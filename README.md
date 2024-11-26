@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi fellow coders, recruiters, curious people, or mom 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrangLe265&theme=javascript)](https://git.io/streak-stats)
 
